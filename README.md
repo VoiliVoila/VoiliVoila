@@ -2,9 +2,9 @@
 
 I build or repair WordPress websites for clients, running **La Jetée** in France.
 
-I also like experimenting beyond WordPress — wthis Astro site and the 
-automation script below were built with a lot of AI-assisted ("vibe 
-coded") exploration. Still learning, but they work!
+I also like experimenting beyond WordPress — this Astro site and the 
+automation script below were built with a lot of vibe 
+coded exploration. Still learning, but they work!
 
 🔗 **Website:** [lajetee.fr](https://lajetee.fr)  
 📌 Pinned repos below — WordPress projects, plus a couple of experiments.
